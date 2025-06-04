@@ -1,31 +1,31 @@
-# 👋 Привет! Я Даниил — системный администратор
+# 👋 Hi! I'm Daniil - system administrator
 
-> 🧰 Работаю системным администратором, последние 5 лет — в военной части  
-> 🚀 Начинаю развиваться в направлении DevOps, автоматизации и современных инструментов
-
----
-
-## 🧑‍💻 Обо мне
-
-- 🛡 Имею опыт поддержки серверной инфраструктуры, в том числе Windows и Linux
-- 🔐 Работаю с сетями, безопасностью, резервным копированием
-- ⚙️ Пишу скрипты на Bash и PowerShell для автоматизации рутинных задач
-- 📘 Активно изучаю инструменты: Git, Docker, Ansible, мониторинг, CI/CD
-- 💡 Веду свой GitHub как личное портфолио и зону роста
+> 🧰 I work as a system administrator, for the last 5 years in a military unit
+> 🚀 I am starting to develop in the direction of DevOps, automation and modern tools
 
 ---
 
-## 📦 Мои проекты
+## 🧑‍💻 About me
 
-| Название проекта | Описание |
+- 🛡 I have experience in supporting server infrastructure, including Windows and Linux
+- 🔐 I work with networks, security, backups
+- ⚙️ I write scripts in Bash and PowerShell to automate routine tasks
+- 📘 I am actively studying tools: Git, Docker, Ansible, monitoring, CI/CD
+- 💡 I manage my GitHub as a personal portfolio and growth area
+
+---
+
+## 📦 My projects
+
+| Project name | Description |
 |------------------|----------|
-| [simple-backup](https://github.com/dankon97/simple-backup) | Bash-скрипт для резервного копирования файлов и логирования |
-| [win-setup-script](https://github.com/dankon97/win-setup-script) | PowerShell-скрипт, который автоматически настраивает Windows после установки |
-| [linux-start](https://github.com/dankon97/linux-start) | Markdown-справочник с командами и настройками для Linux-администрирования |
-| [ansible-linux-setup](https://github.com/dankon97/ansible-linux-setup.git) | Ansible скрипт для настройки Linux |
+| [simple-backup](https://github.com/dankon97/simple-backup) | Bash script for file backup and logging |
+| [win-setup-script](https://github.com/dankon97/win-setup-script) | PowerShell Script That Automatically Configure Windows After Installation |
+| [linux-start](https://github.com/dankon97/linux-start) | Markdown reference with commands and settings for Linux administration |
+| [ansible-linux-setup](https://github.com/dankon97/ansible-linux-setup.git) | Ansible script for linux setup |
 ---
 
-## 🔧 Технологии, которые изучаю
+## 🔧 Technologies I study
 
 ![Bash](https://img.shields.io/badge/Bash-🖥-black?style=flat-square)
 ![PowerShell](https://img.shields.io/badge/PowerShell-💻-blue?style=flat-square)
@@ -35,13 +35,13 @@
 ![Ansible](https://img.shields.io/badge/Ansible-🔁-black?style=flat-square)
 
 
-## 🎯 Цели на GitHub
+## 🎯 Goals on GitHub
 
-- 📌 Постепенно собирать портфолио проектов и скриптов
-- 🛠 Делать автоматизацию проще и доступнее
-- 📚 Учиться на практике и делиться с другими
-
-## 📬 Связь
+- 📌 Gradually collect a portfolio of projects and scripts
+- 🛠 Making automation easier and more accessible
+- 📚 Learn by doing and share with others
+  
+## 📬 Connection
 
 - 📧 dankon97@gmail.com
 - 🗨️[Telegram](https://t.me/dannykondre)
