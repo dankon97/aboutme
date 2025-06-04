@@ -11,5 +11,5 @@
 
 ## 📬 Связь
 
-- 📧 email@example.com
-- 🗨️[Telegram](https://t.me/@dannykondre)
+- 📧 dankon97@gmail.com
+- 🗨️[Telegram](https://t.me/dannykondre)
