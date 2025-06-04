@@ -12,4 +12,4 @@
 ## 📬 Связь
 
 - 📧 email@example.com
-- ![Альтернативное изображение](https://github.com/dankon97/aboutme/blob/main/icons8-логотип-telegram-48.png) [Telegram](https://t.me/твойник)
+- 🗨️[Telegram](https://t.me/@dannykondre)
