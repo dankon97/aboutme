@@ -20,8 +20,8 @@
 | Название проекта | Описание |
 |------------------|----------|
 | [simple-backup](https://github.com/dankon97/simple-backup) | Bash-скрипт для резервного копирования файлов и логирования |
-| [win-setup-script](https://github.com/твой_логин/win-setup-script) | PowerShell-скрипт, который автоматически настраивает Windows после установки |
-| [linux-start](https://github.com/твой_логин/linux-start) | Markdown-справочник с командами и настройками для Linux-администрирования |
+| [win-setup-script](https://github.com/dankon97/win-setup-script) | PowerShell-скрипт, который автоматически настраивает Windows после установки |
+| [linux-start](https://github.com/dankon97/linux-start) | Markdown-справочник с командами и настройками для Linux-администрирования |
 
 ---
 
